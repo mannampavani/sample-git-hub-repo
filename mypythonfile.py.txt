@@ -1,0 +1,3 @@
+s = "Hello"
+p = "Pavani"
+print("Say {} {}".format(s,p))
